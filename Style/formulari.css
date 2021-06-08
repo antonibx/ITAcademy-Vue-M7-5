@@ -1,0 +1,33 @@
+.container {
+    padding-top: 10px;
+}
+
+.card {
+    background-color:khaki;
+}
+
+.producte {
+    border: 1px solid green;
+    background-color:khaki;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.producte p, #warning {
+    margin: auto;
+}
+
+#llista, #warning {
+    padding: 0 30px;
+    margin-bottom: 10px;
+}
+
+.ocult {
+    display: none;
+}
+
+#avis{
+    border-radius: 2px;
+    text-align: center;
+    padding: 10px;
+}
